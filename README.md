@@ -1,7 +1,7 @@
 # 42 Project: minishell
 
 ## Watch the Video
-[![Watch the video](aa.png)](https://andreianghi.ddns.net/Assets/img/progetti/)
+[![Watch the video](aa.png)](https://andreianghi.ddns.net/Assets/img/progetti/1726.webm)
 
 ## Description
 This project is developed in C on Linux ubuntu.
